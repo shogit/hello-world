@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+shogit might be used as notes for learning
